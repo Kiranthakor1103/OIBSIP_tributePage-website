@@ -1,0 +1,72 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(12, 12, 50);
+}
+
+.header {
+  text-align: center;
+  padding: 20px;
+  background-color: aqua;
+  color: black;
+}
+
+.image-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+img {
+  width: 500px;
+  height: 400px;
+  border-radius: 20px;
+  border-image-outset: 5px;
+}
+
+main {
+  max-width: 2000px;
+  margin: 2px;
+  padding: 30px;
+}
+
+h1 {
+  font-size: 36px;
+  text-align: center;
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+p {
+  color: solid black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 21px;
+  font-style: normal;
+  justify-content: center;
+  line-height: 2;
+}
+
+#first {
+  background-color: yellow;
+}
+
+#second {
+  background-color: white;
+}
+
+#third {
+  background-color: cyan;
+}
+
+#fourth {
+  background-color: darkviolet;
+  color: white;
+}
+
+table {
+  text-align: center;
+  color: azure;
+  font-size: large;
+  border-color: yellow;
+}
